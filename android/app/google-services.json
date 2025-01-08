@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9525927557",
+    "project_id": "hazo-1b737",
+    "storage_bucket": "hazo-1b737.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9525927557:android:4d79cab7550829052953ec",
+        "android_client_info": {
+          "package_name": "com.hazo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9525927557-b693phlr0mnlklng24fbf2g1h0b4h76f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazo.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "9525927557-qijnko26k74t3r7oimm6dqnetk9pmtij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEYo_KbGHpmnxAwXao91DlHFNqYSL5K1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9525927557-qijnko26k74t3r7oimm6dqnetk9pmtij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
